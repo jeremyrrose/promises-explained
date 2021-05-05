@@ -1,6 +1,6 @@
 # Promises in JavaScript
 
-We've been _using_ JavaScript promises throughout the cohort -- and you've probably gotten pretty good at knowing where to put `async` and `await` inside a React project. You might even be able to use `Promise.all` to resolve a complex set of seeding instructions using Mongoose.
+Most new JS developers have at least some experience _using_ JavaScript promises -- you might be pretty good at knowing where to put `async` and `await` inside a React project. You might even be able to use `Promise.all` to resolve a complex set of seeding instructions using Mongoose.
 
 But what's actually going on under there? What's a `Promise`?
 
@@ -91,4 +91,3 @@ Promise values are fully available within the context of `.then` callbacks or in
 * [Dev.to: How to access the returned value of a Promise](https://dev.to/ramonak/javascript-how-to-access-the-return-value-of-a-promise-object-1bck)
 * [Fetch Spec: WHATWG.org](https://fetch.spec.whatwg.org/)
 * [javascript.info: Event Loop, Microtasks and Macrotasks](https://javascript.info/event-loop)
->Lightly adapted by the same author from [this repo](https://github.com/jeremyrrose/promises-explained).
