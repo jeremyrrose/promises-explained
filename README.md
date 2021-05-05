@@ -91,3 +91,4 @@ Promise values are fully available within the context of `.then` callbacks or in
 * [Dev.to: How to access the returned value of a Promise](https://dev.to/ramonak/javascript-how-to-access-the-return-value-of-a-promise-object-1bck)
 * [Fetch Spec: WHATWG.org](https://fetch.spec.whatwg.org/)
 * [javascript.info: Event Loop, Microtasks and Macrotasks](https://javascript.info/event-loop)
+>Lightly adapted by the same author from [this repo](https://github.com/jeremyrrose/promises-explained).
